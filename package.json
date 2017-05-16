@@ -1,0 +1,14 @@
+{
+  "name": "tier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex.js",
+  "scripts": {
+    "test": "node ../node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-crc32c": "^1.0.4"
+  }
+}
